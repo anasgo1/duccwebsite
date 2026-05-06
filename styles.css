@@ -165,8 +165,8 @@ img {
   gap: 56px;
   border-radius: 44px;
   background:
-    linear-gradient(135deg, rgba(255, 255, 255, 0.97), rgba(255, 255, 255, 0.84)),
-    linear-gradient(135deg, rgba(217, 4, 22, 0.1), rgba(185, 189, 194, 0.22));
+ linear-gradient(135deg, rgba(255, 238, 240, 0.91), rgba(255, 210, 214, 0.76)),
+  linear-gradient(135deg, rgba(217, 4, 22, 0.38), rgba(143, 6, 19, 0.22));
   box-shadow: 0 35px 90px rgba(21, 25, 31, 0.12);
   overflow: hidden;
 }
